@@ -1,1 +1,95 @@
-[]
+{
+  "version": "2026-06-10T23:26:04.297Z",
+  "products": [
+    {
+      "id": "AAC001",
+      "name": "600?200?100 (4\") AAC Block",
+      "categoryId": "blocks",
+      "categoryTitle": "Blocks",
+      "subcategory": "AAC Blocks",
+      "description": "High-strength AAC block suitable for walls",
+      "useCase": "Residential construction",
+      "brief": "Lightweight AAC block",
+      "images": [
+        "https://..."
+      ],
+      "image": "https://...",
+      "packagingOptions": [
+        "Piece"
+      ],
+      "unit": "Piece",
+      "active": true,
+      "featured": true,
+      "individualEnabled": true,
+      "individualPrice": 10,
+      "individualMinQty": 1,
+      "resellerEnabled": true,
+      "resellerPrice": 9,
+      "resellerMinQty": 100,
+      "projectEnabled": true,
+      "projectPrice": 8,
+      "projectMinQty": 500,
+      "stockStatus": "In Stock"
+    },
+    {
+      "id": "AAC002",
+      "name": "600?200?150 (6\") AAC Block",
+      "categoryId": "blocks",
+      "categoryTitle": "Blocks",
+      "subcategory": "AAC Blocks",
+      "description": "Suitable for external walls",
+      "useCase": "Commercial projects",
+      "brief": "Thermal insulating block",
+      "images": [
+        "https://..."
+      ],
+      "image": "https://...",
+      "packagingOptions": [
+        "Piece"
+      ],
+      "unit": "Piece",
+      "active": true,
+      "featured": false,
+      "individualEnabled": true,
+      "individualPrice": 12,
+      "individualMinQty": 1,
+      "resellerEnabled": true,
+      "resellerPrice": 10.5,
+      "resellerMinQty": 100,
+      "projectEnabled": true,
+      "projectPrice": 9,
+      "projectMinQty": 500,
+      "stockStatus": "In Stock"
+    },
+    {
+      "id": "CEM001",
+      "name": "OPC 53 Grade Cement",
+      "categoryId": "cement",
+      "categoryTitle": "Cement",
+      "subcategory": "OPC",
+      "description": "Premium quality cement",
+      "useCase": "Structural concrete",
+      "brief": "High-strength cement",
+      "images": [
+        "https://..."
+      ],
+      "image": "https://...",
+      "packagingOptions": [
+        "Bag"
+      ],
+      "unit": "Bag",
+      "active": true,
+      "featured": true,
+      "individualEnabled": true,
+      "individualPrice": 400,
+      "individualMinQty": 1,
+      "resellerEnabled": true,
+      "resellerPrice": 370,
+      "resellerMinQty": 50,
+      "projectEnabled": true,
+      "projectPrice": 350,
+      "projectMinQty": 200,
+      "stockStatus": "Limited"
+    }
+  ]
+}
