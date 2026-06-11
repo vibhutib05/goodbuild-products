@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-11T23:12:41.918Z",
+  "version": "2026-06-11T23:25:20.423Z",
   "products": [
     {
       "id": "AAC001",
@@ -2027,9 +2027,10 @@
       "useCase": "",
       "brief": "",
       "images": [
-        "1 | 2"
+        "1",
+        "2"
       ],
-      "image": "1 | 2",
+      "image": "1",
       "packagingOptions": [
         "Bag"
       ],
@@ -2057,9 +2058,10 @@
       "useCase": "",
       "brief": "",
       "images": [
-        "Front | Back"
+        "Front",
+        "Back"
       ],
-      "image": "Front | Back",
+      "image": "Front",
       "packagingOptions": [
         "Bag"
       ],
