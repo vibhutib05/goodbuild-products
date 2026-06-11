@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-11T22:33:56.848Z",
+  "version": "2026-06-11T23:12:41.922Z",
   "categories": [
     {
       "id": "aac-blocks",
@@ -8,6 +8,16 @@
       "image": "",
       "active": true,
       "subcategories": []
+    },
+    {
+      "id": "architectural-finishes",
+      "title": "Architectural Finishes",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "Decorative Plasters"
+      ]
     },
     {
       "id": "cement",
@@ -21,24 +31,6 @@
       ]
     },
     {
-      "id": "readymix-concrete-nuvoco",
-      "title": "Readymix Concrete(Nuvoco)",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": [
-        "PPC"
-      ]
-    },
-    {
-      "id": "iron-bars",
-      "title": "Iron Bars",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": []
-    },
-    {
       "id": "concrete-admixtures",
       "title": "Concrete Admixtures",
       "images": [],
@@ -50,8 +42,102 @@
       ]
     },
     {
+      "id": "concrete-repair",
+      "title": "Concrete Repair",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "engineering-grout",
+      "title": "Engineering Grout",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "industrial-flooring",
+      "title": "Industrial Flooring",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "New Flooring"
+      ]
+    },
+    {
+      "id": "iron-bars",
+      "title": "Iron Bars",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "marble-fixing-and-maintainance",
+      "title": "Marble Fixing and Maintainance",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "Marble Fixing"
+      ]
+    },
+    {
+      "id": "micro-silica",
+      "title": "Micro Silica",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
       "id": "pce",
       "title": "PCE",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "ready-to-use-mortar-concrete",
+      "title": "Ready-to-use Mortar/Concrete",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "readymix-concrete-nuvoco",
+      "title": "Readymix Concrete(Nuvoco)",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "PPC"
+      ]
+    },
+    {
+      "id": "road-repair-solutions",
+      "title": "Road Repair Solutions",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "tile-adhesives-and-epoxy",
+      "title": "Tile Adhesives and Epoxy",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "wall-putty",
+      "title": "Wall Putty",
       "images": [],
       "image": "",
       "active": true,
@@ -70,92 +156,6 @@
         "Integral",
         "Surface Coats"
       ]
-    },
-    {
-      "id": "tile-adhesives-and-epoxy",
-      "title": "Tile Adhesives and Epoxy",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": []
-    },
-    {
-      "id": "marble-fixing-and-maintainance",
-      "title": "Marble Fixing and Maintainance",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": [
-        "Marble Fixing"
-      ]
-    },
-    {
-      "id": "ready-to-use-mortar-concrete",
-      "title": "Ready-to-use Mortar/Concrete",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": []
-    },
-    {
-      "id": "industrial-flooring",
-      "title": "Industrial Flooring",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": [
-        "New Flooring"
-      ]
-    },
-    {
-      "id": "architectural-finishes",
-      "title": "Architectural Finishes",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": [
-        "Decorative Plasters"
-      ]
-    },
-    {
-      "id": "engineering-grout",
-      "title": "Engineering Grout",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": []
-    },
-    {
-      "id": "micro-silica",
-      "title": "Micro Silica",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": []
-    },
-    {
-      "id": "wall-putty",
-      "title": "Wall Putty",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": []
-    },
-    {
-      "id": "road-repair-solutions",
-      "title": "Road Repair Solutions",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": []
-    },
-    {
-      "id": "concrete-repair",
-      "title": "Concrete Repair",
-      "images": [],
-      "image": "",
-      "active": true,
-      "subcategories": []
     }
   ]
 }
