@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-11T23:12:41.922Z",
+  "version": "2026-06-11T23:25:20.425Z",
   "categories": [
     {
       "id": "aac-blocks",
@@ -147,10 +147,12 @@
       "id": "waterproofing",
       "title": "Waterproofing",
       "images": [
-        "1 | 2",
-        "Front | Back"
+        "1",
+        "2",
+        "Front",
+        "Back"
       ],
-      "image": "1 | 2",
+      "image": "1",
       "active": true,
       "subcategories": [
         "Integral",
