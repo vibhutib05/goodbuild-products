@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-11T04:32:52.984Z",
+  "version": "2026-06-11T04:33:58.766Z",
   "products": [
     {
       "id": "AAC001",
@@ -84,7 +84,7 @@
       "individualPrice": 400,
       "individualMinQty": 1,
       "resellerEnabled": false,
-      "resellerPrice": 370,
+      "resellerPrice": 350,
       "resellerMinQty": 50,
       "projectEnabled": true,
       "projectPrice": 350,
