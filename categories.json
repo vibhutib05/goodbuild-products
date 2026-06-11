@@ -1,23 +1,19 @@
 {
-  "version": "2026-06-11T21:09:31.065Z",
+  "version": "2026-06-11T22:33:56.848Z",
   "categories": [
     {
       "id": "aac-blocks",
       "title": "AAC Blocks",
-      "images": [
-        "https://..."
-      ],
-      "image": "https://...",
+      "images": [],
+      "image": "",
       "active": true,
       "subcategories": []
     },
     {
       "id": "cement",
       "title": "Cement",
-      "images": [
-        "https://..."
-      ],
-      "image": "https://...",
+      "images": [],
+      "image": "",
       "active": true,
       "subcategories": [
         "Bags",
@@ -64,8 +60,11 @@
     {
       "id": "waterproofing",
       "title": "Waterproofing",
-      "images": [],
-      "image": "",
+      "images": [
+        "1 | 2",
+        "Front | Back"
+      ],
+      "image": "1 | 2",
       "active": true,
       "subcategories": [
         "Integral",
