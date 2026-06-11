@@ -1,17 +1,15 @@
 {
-  "version": "2026-06-11T04:33:58.767Z",
+  "version": "2026-06-11T21:09:31.065Z",
   "categories": [
     {
-      "id": "blocks",
-      "title": "Blocks",
+      "id": "aac-blocks",
+      "title": "AAC Blocks",
       "images": [
         "https://..."
       ],
       "image": "https://...",
       "active": true,
-      "subcategories": [
-        "AAC Blocks"
-      ]
+      "subcategories": []
     },
     {
       "id": "cement",
@@ -22,8 +20,143 @@
       "image": "https://...",
       "active": true,
       "subcategories": [
-        "OPC"
+        "Bags",
+        "Loose"
       ]
+    },
+    {
+      "id": "readymix-concrete-nuvoco",
+      "title": "Readymix Concrete(Nuvoco)",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "PPC"
+      ]
+    },
+    {
+      "id": "iron-bars",
+      "title": "Iron Bars",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "concrete-admixtures",
+      "title": "Concrete Admixtures",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "Basic Concrete Admixture",
+        "Special Additives"
+      ]
+    },
+    {
+      "id": "pce",
+      "title": "PCE",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "waterproofing",
+      "title": "Waterproofing",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "Integral",
+        "Surface Coats"
+      ]
+    },
+    {
+      "id": "tile-adhesives-and-epoxy",
+      "title": "Tile Adhesives and Epoxy",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "marble-fixing-and-maintainance",
+      "title": "Marble Fixing and Maintainance",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "Marble Fixing"
+      ]
+    },
+    {
+      "id": "ready-to-use-mortar-concrete",
+      "title": "Ready-to-use Mortar/Concrete",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "industrial-flooring",
+      "title": "Industrial Flooring",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "New Flooring"
+      ]
+    },
+    {
+      "id": "architectural-finishes",
+      "title": "Architectural Finishes",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": [
+        "Decorative Plasters"
+      ]
+    },
+    {
+      "id": "engineering-grout",
+      "title": "Engineering Grout",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "micro-silica",
+      "title": "Micro Silica",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "wall-putty",
+      "title": "Wall Putty",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "road-repair-solutions",
+      "title": "Road Repair Solutions",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
+    },
+    {
+      "id": "concrete-repair",
+      "title": "Concrete Repair",
+      "images": [],
+      "image": "",
+      "active": true,
+      "subcategories": []
     }
   ]
 }
