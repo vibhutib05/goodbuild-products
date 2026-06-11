@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-11T23:25:20.425Z",
+  "version": "2026-06-11T23:43:51.350Z",
   "categories": [
     {
       "id": "aac-blocks",
@@ -7,6 +7,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -15,6 +16,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": true,
       "subcategories": [
         "Decorative Plasters"
       ]
@@ -25,6 +27,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": true,
       "subcategories": [
         "Bags",
         "Loose"
@@ -36,6 +39,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": true,
       "subcategories": [
         "Basic Concrete Admixture",
         "Special Additives"
@@ -47,6 +51,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -55,6 +60,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -63,6 +69,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": true,
       "subcategories": [
         "New Flooring"
       ]
@@ -73,6 +80,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -81,6 +89,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": true,
       "subcategories": [
         "Marble Fixing"
       ]
@@ -91,6 +100,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -99,6 +109,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -107,6 +118,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -115,6 +127,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": true,
       "subcategories": [
         "PPC"
       ]
@@ -125,6 +138,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -133,6 +147,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -141,6 +156,7 @@
       "images": [],
       "image": "",
       "active": true,
+      "usesSubcategories": false,
       "subcategories": []
     },
     {
@@ -154,6 +170,7 @@
       ],
       "image": "1",
       "active": true,
+      "usesSubcategories": true,
       "subcategories": [
         "Integral",
         "Surface Coats"
