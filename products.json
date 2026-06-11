@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-11T21:09:31.065Z",
+  "version": "2026-06-11T22:33:56.848Z",
   "products": [
     {
       "id": "AAC001",
@@ -10,10 +10,8 @@
       "description": "High-strength AAC block suitable for walls",
       "useCase": "Residential construction",
       "brief": "Lightweight AAC block",
-      "images": [
-        "https://..."
-      ],
-      "image": "https://...",
+      "images": [],
+      "image": "",
       "packagingOptions": [
         "Piece"
       ],
@@ -40,10 +38,8 @@
       "description": "Suitable for external walls",
       "useCase": "Commercial projects",
       "brief": "Thermal insulating block",
-      "images": [
-        "https://..."
-      ],
-      "image": "https://...",
+      "images": [],
+      "image": "",
       "packagingOptions": [
         "Piece"
       ],
@@ -96,10 +92,8 @@
       "description": "Premium quality cement",
       "useCase": "Structural concrete",
       "brief": "High-strength cement",
-      "images": [
-        "https://..."
-      ],
-      "image": "https://...",
+      "images": [],
+      "image": "",
       "packagingOptions": [
         "Bag"
       ],
@@ -880,8 +874,38 @@
       "description": "",
       "useCase": "",
       "brief": "",
-      "images": [],
-      "image": "",
+      "images": [
+        "1 | 2"
+      ],
+      "image": "1 | 2",
+      "packagingOptions": [],
+      "unit": "",
+      "active": true,
+      "featured": false,
+      "individualEnabled": false,
+      "individualPrice": 0,
+      "individualMinQty": 1,
+      "resellerEnabled": false,
+      "resellerPrice": 0,
+      "resellerMinQty": 1,
+      "projectEnabled": false,
+      "projectPrice": 0,
+      "projectMinQty": 1,
+      "stockStatus": ""
+    },
+    {
+      "id": "WTP002",
+      "name": "FAIRMATE WATERPLUG",
+      "categoryId": "waterproofing",
+      "categoryTitle": "Waterproofing",
+      "subcategory": "Integral",
+      "description": "",
+      "useCase": "",
+      "brief": "",
+      "images": [
+        "Front | Back"
+      ],
+      "image": "Front | Back",
       "packagingOptions": [],
       "unit": "",
       "active": true,
