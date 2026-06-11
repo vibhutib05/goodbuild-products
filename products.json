@@ -1,9 +1,11 @@
 {
-  "version": "2026-06-11T23:25:20.423Z",
+  "version": "2026-06-11T23:43:51.349Z",
   "products": [
     {
       "id": "AAC001",
       "name": "600x200x100 (4\") AAC Block",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "aac-blocks",
       "categoryTitle": "AAC Blocks",
       "subcategory": "",
@@ -32,6 +34,8 @@
     {
       "id": "AAC002",
       "name": "600x200x150 (6\") AAC Block",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "aac-blocks",
       "categoryTitle": "AAC Blocks",
       "subcategory": "",
@@ -60,6 +64,8 @@
     {
       "id": "AAC003",
       "name": "600x200x150 (8\") AAC Block",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "aac-blocks",
       "categoryTitle": "AAC Blocks",
       "subcategory": "",
@@ -88,6 +94,8 @@
     {
       "id": "ARF002",
       "name": "READPLAST WHITE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "architectural-finishes",
       "categoryTitle": "Architectural Finishes",
       "subcategory": "Decorative Plasters",
@@ -116,6 +124,8 @@
     {
       "id": "ARF003",
       "name": "READYPLAST C",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "architectural-finishes",
       "categoryTitle": "Architectural Finishes",
       "subcategory": "Decorative Plasters",
@@ -144,6 +154,8 @@
     {
       "id": "CEM001",
       "name": "Wonder PPC",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "cement",
       "categoryTitle": "Cement",
       "subcategory": "Bags",
@@ -172,6 +184,8 @@
     {
       "id": "CEM002",
       "name": "Wonder Plus",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "cement",
       "categoryTitle": "Cement",
       "subcategory": "Bags",
@@ -200,6 +214,8 @@
     {
       "id": "CEM003",
       "name": "Wonder OPC 43",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "cement",
       "categoryTitle": "Cement",
       "subcategory": "Bags",
@@ -228,6 +244,8 @@
     {
       "id": "CEM004",
       "name": "Wonder OPC 53",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "cement",
       "categoryTitle": "Cement",
       "subcategory": "Bags",
@@ -256,6 +274,8 @@
     {
       "id": "CEM005",
       "name": "Wonder PPC",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "cement",
       "categoryTitle": "Cement",
       "subcategory": "Loose",
@@ -284,6 +304,8 @@
     {
       "id": "CEM006",
       "name": "OPC 43",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "cement",
       "categoryTitle": "Cement",
       "subcategory": "Loose",
@@ -312,6 +334,8 @@
     {
       "id": "CEM007",
       "name": "OPC 53",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "cement",
       "categoryTitle": "Cement",
       "subcategory": "Loose",
@@ -340,6 +364,8 @@
     {
       "id": "CCA001",
       "name": "FAIRCRETE W (L)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Basic Concrete Admixture",
@@ -368,6 +394,8 @@
     {
       "id": "CCA002",
       "name": "FAIRCRETE RMW",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Basic Concrete Admixture",
@@ -396,6 +424,8 @@
     {
       "id": "CCA003",
       "name": "FAIRFLO S MODIFIED",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Basic Concrete Admixture",
@@ -424,6 +454,8 @@
     {
       "id": "CCA004",
       "name": "FAIRFLO 120",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Basic Concrete Admixture",
@@ -452,6 +484,8 @@
     {
       "id": "CCA005",
       "name": "FAIRFLO 120 M",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Basic Concrete Admixture",
@@ -480,6 +514,8 @@
     {
       "id": "CCA006",
       "name": "FAIRFLO 140 M",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Basic Concrete Admixture",
@@ -508,6 +544,8 @@
     {
       "id": "CCA007",
       "name": "Brocrete C 800",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Basic Concrete Admixture",
@@ -536,6 +574,8 @@
     {
       "id": "CCA008",
       "name": "Fairflo HSP M1",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Basic Concrete Admixture",
@@ -564,6 +604,8 @@
     {
       "id": "CCA009",
       "name": "FAIRCRETE RMW CRYSTALLINE LIQUID",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Special Additives",
@@ -592,6 +634,8 @@
     {
       "id": "CCA010",
       "name": "FAIRFIBRE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Special Additives",
@@ -620,6 +664,8 @@
     {
       "id": "CCA011",
       "name": "Faircrete C",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-admixtures",
       "categoryTitle": "Concrete Admixtures",
       "subcategory": "Special Additives",
@@ -648,6 +694,8 @@
     {
       "id": "CCR001",
       "name": "CRACKFILL PASTE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-repair",
       "categoryTitle": "Concrete Repair",
       "subcategory": "",
@@ -676,6 +724,8 @@
     {
       "id": "CCR002",
       "name": "FAIRBOND EP",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-repair",
       "categoryTitle": "Concrete Repair",
       "subcategory": "",
@@ -704,6 +754,8 @@
     {
       "id": "CCR003",
       "name": "FAIRCRETE SB(L)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-repair",
       "categoryTitle": "Concrete Repair",
       "subcategory": "",
@@ -732,6 +784,8 @@
     {
       "id": "CCR004",
       "name": "FAIRCRETE SBR",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-repair",
       "categoryTitle": "Concrete Repair",
       "subcategory": "",
@@ -760,6 +814,8 @@
     {
       "id": "CCR005",
       "name": "CEMSCREED HMF",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "concrete-repair",
       "categoryTitle": "Concrete Repair",
       "subcategory": "",
@@ -788,6 +844,8 @@
     {
       "id": "ENG001",
       "name": "ANCHORGROUT",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "engineering-grout",
       "categoryTitle": "Engineering Grout",
       "subcategory": "",
@@ -816,6 +874,8 @@
     {
       "id": "ENG002",
       "name": "FLOWGROUT 40",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "engineering-grout",
       "categoryTitle": "Engineering Grout",
       "subcategory": "",
@@ -844,6 +904,8 @@
     {
       "id": "ILF001",
       "name": "FAIRTOP STD",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "industrial-flooring",
       "categoryTitle": "Industrial Flooring",
       "subcategory": "New Flooring",
@@ -872,6 +934,8 @@
     {
       "id": "ILF002",
       "name": "FAIRTOP STD (Green)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "industrial-flooring",
       "categoryTitle": "Industrial Flooring",
       "subcategory": "New Flooring",
@@ -900,6 +964,8 @@
     {
       "id": "ILF003",
       "name": "FAIRTOP STD (Red)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "industrial-flooring",
       "categoryTitle": "Industrial Flooring",
       "subcategory": "New Flooring",
@@ -928,6 +994,8 @@
     {
       "id": "ILF004",
       "name": "FAIRTOP STD (Yellow)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "industrial-flooring",
       "categoryTitle": "Industrial Flooring",
       "subcategory": "New Flooring",
@@ -956,6 +1024,8 @@
     {
       "id": "ILF005",
       "name": "FAIRTOP STD (Blue)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "industrial-flooring",
       "categoryTitle": "Industrial Flooring",
       "subcategory": "New Flooring",
@@ -984,6 +1054,8 @@
     {
       "id": "ILF006",
       "name": "FASTFLOOR",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "industrial-flooring",
       "categoryTitle": "Industrial Flooring",
       "subcategory": "New Flooring",
@@ -1012,6 +1084,8 @@
     {
       "id": "ILF007",
       "name": "EPOXY FLOORING",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "industrial-flooring",
       "categoryTitle": "Industrial Flooring",
       "subcategory": "New Flooring",
@@ -1040,6 +1114,8 @@
     {
       "id": "IRB001",
       "name": "32-8mm",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "iron-bars",
       "categoryTitle": "Iron Bars",
       "subcategory": "",
@@ -1068,6 +1144,8 @@
     {
       "id": "IRB002",
       "name": "Binding bars",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "iron-bars",
       "categoryTitle": "Iron Bars",
       "subcategory": "",
@@ -1096,6 +1174,8 @@
     {
       "id": "MFM001",
       "name": "STONE FIX SUPER E",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "marble-fixing-and-maintainance",
       "categoryTitle": "Marble Fixing and Maintainance",
       "subcategory": "Marble Fixing",
@@ -1124,6 +1204,8 @@
     {
       "id": "MFM002",
       "name": "STONE FIX SUPER P",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "marble-fixing-and-maintainance",
       "categoryTitle": "Marble Fixing and Maintainance",
       "subcategory": "Marble Fixing",
@@ -1152,6 +1234,8 @@
     {
       "id": "MCS001",
       "name": "Corniche - Micro silica (Silica fumes)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "micro-silica",
       "categoryTitle": "Micro Silica",
       "subcategory": "",
@@ -1180,6 +1264,8 @@
     {
       "id": "PCE001",
       "name": "WSR",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "pce",
       "categoryTitle": "PCE",
       "subcategory": "",
@@ -1208,6 +1294,8 @@
     {
       "id": "PCE002",
       "name": "SR",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "pce",
       "categoryTitle": "PCE",
       "subcategory": "",
@@ -1236,6 +1324,8 @@
     {
       "id": "PCE003",
       "name": "SSR",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "pce",
       "categoryTitle": "PCE",
       "subcategory": "",
@@ -1264,6 +1354,8 @@
     {
       "id": "MFM005",
       "name": "READYPLAST FB ( E )",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "ready-to-use-mortar-concrete",
       "categoryTitle": "Ready-to-use Mortar/Concrete",
       "subcategory": "",
@@ -1292,6 +1384,8 @@
     {
       "id": "MFM006",
       "name": "READYPLAST M SUPER",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "ready-to-use-mortar-concrete",
       "categoryTitle": "Ready-to-use Mortar/Concrete",
       "subcategory": "",
@@ -1320,6 +1414,8 @@
     {
       "id": "MFM007",
       "name": "READYCON (M20)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "ready-to-use-mortar-concrete",
       "categoryTitle": "Ready-to-use Mortar/Concrete",
       "subcategory": "",
@@ -1348,6 +1444,8 @@
     {
       "id": "MFM008",
       "name": "REDYCON (M25)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "ready-to-use-mortar-concrete",
       "categoryTitle": "Ready-to-use Mortar/Concrete",
       "subcategory": "",
@@ -1376,6 +1474,8 @@
     {
       "id": "MFM009",
       "name": "REDYCON (M30)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "ready-to-use-mortar-concrete",
       "categoryTitle": "Ready-to-use Mortar/Concrete",
       "subcategory": "",
@@ -1404,6 +1504,8 @@
     {
       "id": "RCN001",
       "name": "Structural concrete (Standard)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "readymix-concrete-nuvoco",
       "categoryTitle": "Readymix Concrete(Nuvoco)",
       "subcategory": "PPC",
@@ -1432,6 +1534,8 @@
     {
       "id": "RCN002",
       "name": "Self compacting concrete",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "readymix-concrete-nuvoco",
       "categoryTitle": "Readymix Concrete(Nuvoco)",
       "subcategory": "PPC",
@@ -1460,6 +1564,8 @@
     {
       "id": "RCN003",
       "name": "Instamix Concrete (Bags)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "readymix-concrete-nuvoco",
       "categoryTitle": "Readymix Concrete(Nuvoco)",
       "subcategory": "PPC",
@@ -1488,6 +1594,8 @@
     {
       "id": "RCN004",
       "name": "Exposed concrete solutions",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "readymix-concrete-nuvoco",
       "categoryTitle": "Readymix Concrete(Nuvoco)",
       "subcategory": "PPC",
@@ -1516,6 +1624,8 @@
     {
       "id": "RCN005",
       "name": "Industrial flooring",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "readymix-concrete-nuvoco",
       "categoryTitle": "Readymix Concrete(Nuvoco)",
       "subcategory": "PPC",
@@ -1544,6 +1654,8 @@
     {
       "id": "RCN006",
       "name": "Concrete for roads",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "readymix-concrete-nuvoco",
       "categoryTitle": "Readymix Concrete(Nuvoco)",
       "subcategory": "PPC",
@@ -1572,6 +1684,8 @@
     {
       "id": "RCN007",
       "name": "Stamped concrete",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "readymix-concrete-nuvoco",
       "categoryTitle": "Readymix Concrete(Nuvoco)",
       "subcategory": "PPC",
@@ -1600,6 +1714,8 @@
     {
       "id": "RRS001",
       "name": "ROADCRETE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "road-repair-solutions",
       "categoryTitle": "Road Repair Solutions",
       "subcategory": "",
@@ -1628,6 +1744,8 @@
     {
       "id": "RRS002",
       "name": "SBR",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "road-repair-solutions",
       "categoryTitle": "Road Repair Solutions",
       "subcategory": "",
@@ -1656,6 +1774,8 @@
     {
       "id": "TAE001",
       "name": "FAIRFIX MORTAR",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1684,6 +1804,8 @@
     {
       "id": "TAE002",
       "name": "FAIRFIX TA STD",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1712,6 +1834,8 @@
     {
       "id": "TAE003",
       "name": "FAIRFIX TA STD WHITE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1740,6 +1864,8 @@
     {
       "id": "TAE004",
       "name": "FAIRFIX TA SUPER",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1768,6 +1894,8 @@
     {
       "id": "TAE005",
       "name": "FAIRFIX TA SUPER WHITE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1796,6 +1924,8 @@
     {
       "id": "TAE006",
       "name": "FAIRFIX TA ULTRA",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1824,6 +1954,8 @@
     {
       "id": "TAE007",
       "name": "FAIRFIX TA ULTRA WHITE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1852,6 +1984,8 @@
     {
       "id": "TAE008",
       "name": "FAIRFIX EPU",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1880,6 +2014,8 @@
     {
       "id": "TAE009",
       "name": "FAIRFIX TG - (All colour)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1908,6 +2044,8 @@
     {
       "id": "TAE010",
       "name": "FAIRMATE PREMIUM EPOXY TILE GROUT (A+B)",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1936,6 +2074,8 @@
     {
       "id": "TAE011",
       "name": "PREMIUM EPOXY TILE GROUT FM ANY COLOUR - PART C",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1964,6 +2104,8 @@
     {
       "id": "TAE012",
       "name": "FAIRFIX TILE CLEANER",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "tile-adhesives-and-epoxy",
       "categoryTitle": "Tile Adhesives and Epoxy",
       "subcategory": "",
@@ -1992,6 +2134,8 @@
     {
       "id": "WLP001",
       "name": "BIRLA PUTTY",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "wall-putty",
       "categoryTitle": "Wall Putty",
       "subcategory": "",
@@ -2020,6 +2164,8 @@
     {
       "id": "WTP001",
       "name": "FAIRMATE WATERPLUG",
+      "variantId": "1KG",
+      "productGroupId": "WATERPLUG",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Integral",
@@ -2051,6 +2197,8 @@
     {
       "id": "WTP002",
       "name": "FAIRMATE WATERPLUG",
+      "variantId": "5KG",
+      "productGroupId": "WATERPLUG",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Integral",
@@ -2082,6 +2230,8 @@
     {
       "id": "WTP002",
       "name": "FAIRCRETE RMW",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Integral",
@@ -2110,6 +2260,8 @@
     {
       "id": "WTP003",
       "name": "FAIRCRETE RMW CRYSTALLINE LIQUID",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Integral",
@@ -2138,6 +2290,8 @@
     {
       "id": "WTP004",
       "name": "FAIRCRETE RMW  LS",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Integral",
@@ -2166,6 +2320,8 @@
     {
       "id": "WTP005",
       "name": "WATERGUARD A",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2194,6 +2350,8 @@
     {
       "id": "WTP006",
       "name": "WATERGUARD LIQUID MEMBRANE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2222,6 +2380,8 @@
     {
       "id": "WTP007",
       "name": "WATERGUARD LIQUID MEMBRABE WHITE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2250,6 +2410,8 @@
     {
       "id": "WTP008",
       "name": "FAIRMATE NANOSIL",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2278,6 +2440,8 @@
     {
       "id": "WTP009",
       "name": "WATERREPELL S",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2306,6 +2470,8 @@
     {
       "id": "WTP010",
       "name": "WATERGUARD COOLCOOL",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2334,6 +2500,8 @@
     {
       "id": "WTP011",
       "name": "WATERGUARD PU LIQUID MEMBRANE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2362,6 +2530,8 @@
     {
       "id": "WTP012",
       "name": "HDPE MEMBRANE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2390,6 +2560,8 @@
     {
       "id": "WTP013",
       "name": "CRACKFILL PASTE",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
@@ -2418,6 +2590,8 @@
     {
       "id": "WTP014",
       "name": "CRACKSEAL POWDER",
+      "variantId": "",
+      "productGroupId": "",
       "categoryId": "waterproofing",
       "categoryTitle": "Waterproofing",
       "subcategory": "Surface Coats",
