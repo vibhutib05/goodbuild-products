@@ -1,9 +1,9 @@
 {
-  "version": "2026-06-10T23:26:04.297Z",
+  "version": "2026-06-11T04:32:52.984Z",
   "products": [
     {
       "id": "AAC001",
-      "name": "600x200x100 (4\") AAC Block",
+      "name": "600?200?100 (4\") AAC Block",
       "categoryId": "blocks",
       "categoryTitle": "Blocks",
       "subcategory": "AAC Blocks",
@@ -54,7 +54,7 @@
       "individualPrice": 12,
       "individualMinQty": 1,
       "resellerEnabled": true,
-      "resellerPrice": 10.5,
+      "resellerPrice": 15,
       "resellerMinQty": 100,
       "projectEnabled": true,
       "projectPrice": 9,
@@ -83,7 +83,7 @@
       "individualEnabled": true,
       "individualPrice": 400,
       "individualMinQty": 1,
-      "resellerEnabled": true,
+      "resellerEnabled": false,
       "resellerPrice": 370,
       "resellerMinQty": 50,
       "projectEnabled": true,
