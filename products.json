@@ -1,5 +1,5 @@
 {
-  "version": "2026-06-11T23:43:51.349Z",
+  "version": "2026-06-12T00:17:49.109Z",
   "products": [
     {
       "id": "AAC001",
@@ -20,7 +20,7 @@
       "unit": "Piece",
       "active": true,
       "featured": true,
-      "individualEnabled": true,
+      "individualEnabled": false,
       "individualPrice": 10,
       "individualMinQty": 1,
       "resellerEnabled": true,
